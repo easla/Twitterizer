@@ -415,9 +415,6 @@
     <Compile Include="..\Twitterizer2\Methods\Search\TwitterSearch.cs">
       <Link>TwitterSearch.cs</Link>
     </Compile>
-    <Compile Include="..\Twitterizer2\Methods\Search\TwitterSearchResult.cs">
-      <Link>TwitterSearchResult.cs</Link>
-    </Compile>
     <Compile Include="..\Twitterizer2\Methods\Search\TwitterSearchResultCollection.cs">
       <Link>TwitterSearchResultCollection.cs</Link>
     </Compile>
